@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-🎓 I am "smartman", a **Full stack Web Developer** (specializing in **MERN stack**). I also Pursued my Master in **Computer Science** and graduated in 2012.
+🎓 I am "smartman", a **Full stack Web Developer** (specializing in **MERN stack**). I also Pursued my Master in **Computer Science**.
 
 👨‍💻 Innovative, task-driven professional with 8+ years of experience in web design and development across diverse industries. Equipped with a record of success in consistently identifying and providing the technological needs of companies through ingenious innovation. Proficient in developing database, creating user interface, writing and testing codes, troubleshooting simple/complex issues, and implementing new features based on user feedback.
 
