@@ -11,9 +11,9 @@
 📚 I also love reading books on **personal development** & **financial literacy**. My favorite ones are **The Compound Effect** by _Darren Hardy_ in the genre of personal development and **Rich Dad Poor Dad** by _Robert Kiyosaki_ in the genre of financial literacy.
 
 📧 Please contact with me
-   skype: live:.cid.9f61ff52fb69ccaa
-   Discord: smartman#4246
-   Telegram: smartman0307
+   "skype: live:.cid.9f61ff52fb69ccaa",
+   "Discord: smartman#4246",
+   "Telegram: smartman0307"
 
 
 ## 🛠️ Skills
